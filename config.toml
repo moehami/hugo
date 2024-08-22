@@ -39,9 +39,9 @@ enableRobotsTXT = true
     pageRef = '/privacy'
     weight = 20
   [[menus.main]]
-    name = 'Hugo'
+    name = 'Air Fryer Wonder'
     pre = '<i class="fa fa-heart"></i>'
-    url = 'https://gohugo.io/'
+    url = 'https://airfryerwonder.com/'
     weight = 30
     [menus.main.params]
       rel = 'external'
