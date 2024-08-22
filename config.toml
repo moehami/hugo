@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://afwonder.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Air Fryer Lover"
 theme = "ananke"
