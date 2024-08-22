@@ -35,12 +35,9 @@ enableRobotsTXT = true
     name = 'Home'
     pageRef = '/'
     weight = 10
+
   [[menus.main]]
-    name = 'Products'
-    pageRef = '/products'
+    name = 'Contact Me'
+    pageRef = '/contactme'
     weight = 20
-  [[menus.main]]
-    name = 'Services'
-    pageRef = '/services'
-    weight = 30
 
