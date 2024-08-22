@@ -38,6 +38,12 @@ enableRobotsTXT = true
     name = 'Privacy'
     pageRef = '/privacy'
     weight = 20
-
+  [[menus.main]]
+    name = 'Hugo'
+    pre = '<i class="fa fa-heart"></i>'
+    url = 'https://gohugo.io/'
+    weight = 30
+    [menus.main.params]
+      rel = 'external'
 
 
