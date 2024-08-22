@@ -7,7 +7,7 @@ draft: false
 Wow, that air fryer Texas toast is a total game-changer.
 ---
 Look no further if you’ve ever craved that perfect slice of golden, garlicky bread with a satisfying crunch.
-<br>
+
 The air fryer is your secret weapon.
 
 It turns ordinary Texas toast into a crispy, buttery wonder that one finds hard to eat enough of.
