@@ -30,14 +30,6 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
 
-  [menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
 
-  [[menus.main]]
-    name = 'Contact Me'
-    pageRef = '/contactme'
-    weight = 20
+
 
