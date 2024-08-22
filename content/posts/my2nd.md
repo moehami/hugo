@@ -1,11 +1,10 @@
 ---
-title: 'My 2nd Post'
-date: 2019-07-18T17:18:05+01:00
+title: 'Mastering Air Fryer Texas Toast'
+date: 2024-08-21T17:18:05+01:00
 draft: false
 ---
 
-welcome
-here we go
+Wow, that air fryer Texas toast is a total game-changer.
+<p></p>
 
-Selected text: "Click here"
-Pasted URL: "https://www.example.com"
+<p>Mastering  <a href="https://airfryerwonder.com/air-fryer-texas-toast/">here</a> Air Fryer Texas Toast</p>
