@@ -2,6 +2,7 @@
 title: 'Air Fryer Chicken Wings '
 date: 2024-08-21T17:18:05+01:00
 draft: false
+omit_header_text: tru
 menu:
   main: {}
 ---
