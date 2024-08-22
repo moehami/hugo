@@ -6,3 +6,6 @@ draft: false
 
 welcome
 here we go
+
+Selected text: "Click here"
+Pasted URL: "https://www.example.com"
