@@ -6,5 +6,5 @@ draft: false
 
 When the need is for a fast meal, few things will be so conveniently pleasing as chicken wings. <br> Next best thing: What if you have a hankering and only a bag of frozen wings on hand? No sweat; the solution is simple. Using an air fryer, you can go from frozen wings to crispy, juicy perfection in no time. <br>This guideline will discuss everything you want to know about cooking air fryer chicken wings frozen for guaranteed delicious results.
 <p>the article here :</p>
-
 <p>  <a href="https://airfryerwonder.com/air-fryer-chicken-wings-frozen/">Chicken Wings</a>
+</p>
