@@ -7,4 +7,4 @@ draft: false
 Wow, that air fryer Texas toast is a total game-changer.
 <p></p>
 
-<p>Mastering  <a href="https://airfryerwonder.com/air-fryer-texas-toast/">here</a> Air Fryer Texas Toast</p>
+<p>Mastering  <a href="https://airfryerwonder.com/air-fryer-texas-toast/">Air Fryer Texas Toast</a> </p>
