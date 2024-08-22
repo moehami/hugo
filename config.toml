@@ -29,7 +29,15 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
-
+[menus]
+  [[menus.footer]]
+    name = 'Terms'
+    pageRef = '/terms'
+    weight = 10
+  [[menus.footer]]
+    name = 'Privacy'
+    pageRef = '/privacy'
+    weight = 20
 
 
 
