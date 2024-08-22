@@ -1,8 +1,17 @@
 ---
-title: 'My First Post'
-date: 2019-07-18T17:18:05+01:00
+title: 'Mastering Air Fryer Texas Toast'
+date: 2024-08-228T17:18:05+01:00
 draft: false
 ---
 
-# Hugo on Vercel
-here we go
+# Wow, that air fryer Texas toast is a total game-changer.
+
+#Look no further if you’ve ever craved that perfect slice of golden, garlicky bread with a satisfying crunch.
+
+The air fryer is your secret weapon.
+
+It turns ordinary Texas toast into a crispy, buttery wonder that one finds hard to eat enough of.
+
+In this post, we’ll be focusing on how to really quintessentially nail that air fryer Texas toast.
+
+No stone will be left unturned, from the best techniques to insider tips.
