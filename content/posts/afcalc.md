@@ -5,9 +5,9 @@ date: 2024-08-28T17:18:05+01:00
 draft: false
 featured_image: 'https://airfryerwonder.com/wp-content/uploads/2024/03/848992be-4026-42b8-a1ca-05a50b9c3337.jpg'
 ---
- <h1>Air Fryer Calculator: Your New Kitchen BFF</h1>
 
-   <p>Have you ever wondered how long to cook your food in your air fryer? It can be tricky to guess the perfect time, especially for new recipes or unfamiliar ingredients. That's where an air fryer calculator comes in handy.</p>
+
+<p>Have you ever wondered how long to cook your food in your air fryer? It can be tricky to guess the perfect time, especially for new recipes or unfamiliar ingredients. That's where an air fryer calculator comes in handy.</p>
 
    <h2>What is an Air Fryer Calculator?</h2>
     <p>An air fryer calculator is a simple online tool that helps you determine the ideal cooking time and temperature for your food. You simply input the type of food, weight or quantity, and desired level of doneness, and the calculator provides a customized cooking recommendation.</p>
