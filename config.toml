@@ -1,7 +1,7 @@
 title = "Air Fryer Lover"
 baseURL = "https://aflover.vercel.app"
 languageCode = "en-us"
-theme = "ananke"
+theme = "docsy"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
