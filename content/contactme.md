@@ -8,4 +8,4 @@ menu:
   main: {}
 ---
 
-{{< form-contact action="{{ .Site.BaseURL }"  >}}
+{{< form-contact action="https://aflover.vercel.app/"  >}}
