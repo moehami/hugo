@@ -6,6 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main: {}
+---
 package main
 import (
 	"fmt"
@@ -23,5 +24,3 @@ body, _ := io.ReadAll(res.Body)
 fmt.Println(res)
 fmt.Println(string(body))
 }
-
----
