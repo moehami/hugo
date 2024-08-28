@@ -8,4 +8,4 @@ menu:
   main: {}
 ---
 
-{{< form-contact action="https://aflover.vercel.app/"  >}}
+{{< form-contact action="https://formspree.io/f/mjkbazaq"  >}}
