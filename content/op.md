@@ -1,5 +1,4 @@
-
-{{ $url := "https://airfryerwonder.com/wp-content/uploads/2023/06/download-1.jpeg" }}
+$url := "https://airfryerwonder.com/wp-content/uploads/2023/06/download-1.jpeg"
 {{ with resources.GetRemote $url }}
   {{ with .Err }}
     {{ errorf "%s" . }}
