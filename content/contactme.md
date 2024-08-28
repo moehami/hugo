@@ -9,4 +9,3 @@ menu:
 ---
 
 {{< form-contact action="{{ .Site.BaseURL }"  >}}
-{{ .Site.Params.sponser }}
