@@ -2,6 +2,17 @@
   <div class="flex">  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}">
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
   </a>
+         {{ if .Site.Menus.main }}
+        <ul class="pl0 mr3">
+          {{ range .Site.Menus.footer }}
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
