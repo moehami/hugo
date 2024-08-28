@@ -19,4 +19,5 @@ menu:
 {{ else }}
   {{ errorf "Unable to get remote resource %q" $url }}
 {{ end }}
+
 ---
