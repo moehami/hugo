@@ -1,3 +1,4 @@
+ {{ .Title | default .Site.Title }}
 {{ package main }}
 {{ import (
 	"fmt"
