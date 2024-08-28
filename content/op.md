@@ -6,6 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main: {}
+  ---
 {{ $url := "https://thereportoftheweek-api.herokuapp.com/" }}
 {{ with resources.GetRemote $url }}
   {{ with .Err }}
@@ -17,4 +18,4 @@ menu:
   {{ errorf "Unable to get remote resource %q" $url }}
 {{ end }}
 
----
+
