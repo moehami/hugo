@@ -2,7 +2,7 @@
 title: 'Hard Boiled Eggs in an Air Fryer: A Quick and Easy Method'
 date: 2024-08-26T17:18:05+01:00
 draft: false
-featured_image: 'https://airfryerwonder.com/wp-content/uploads/2024/08/pixlr-image-generator-0d9f60ef-3bb6-4fbd-8034-72f8c1ed008b.jpg'
+featured_image: 'https://airfryerwonder.com/wp-content/uploads/2024/08/pixlr-image-generator-0d9f60ef-3bb6-4fbd-8034-72f8c1ed008b.webp'
 ---
 <h1>Hard Boiled Eggs in an Air Fryer: A Quick and Easy Method</h1>
   <p>Tired of overcooked or undercooked hard boiled eggs? Look no further! An air fryer offers a convenient and reliable way to achieve perfectly cooked hard boiled eggs every time.</p>
