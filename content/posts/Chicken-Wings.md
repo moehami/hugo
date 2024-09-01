@@ -3,6 +3,7 @@ title: 'Air Fryer Chicken Wings '
 date: 2024-08-21T17:18:05+01:00
 draft: false
 featured_image: 'https://airfryerwonder.com/wp-content/uploads/2024/08/969629_a-lady-cooking-chicken-wings-frozen-in-air-fryer-_xl-1024-v1-0.png'
+description: 'air fryer chicken wings'
 ---
 
 <br>
