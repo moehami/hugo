@@ -1,8 +1,6 @@
 +++
-title: "Testa"
-date: {{ .Date }}
-draft: true
+title = 'My First Post'
+date = 2024-01-14T07:07:07+01:00
+draft = true
 +++
-<h1>t{{ .Title }}</h1>
-<p>{{ .Content }}</p>
-<span>{{ .Params.date }}</span>
+## Introduction
