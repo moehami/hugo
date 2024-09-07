@@ -33,4 +33,4 @@ description: 'Airfood recipe'
 </body>
 </html>
   
-This blog post provides a brief introduction to airfood recipes and their benefits. It also highlights a helpful resource (Air Fryer Wonder) to explore a wider variety of air fryer recipes.  
+This blog post provides a brief introduction to airfood recipes and their benefits. It also highlights a helpful resource (<a href="https://airfryerwonder.com/airfood-recipe/" target="_blank" />Air Fryer Wonder</a>) to explore a wider variety of air fryer recipes.  
