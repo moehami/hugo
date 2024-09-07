@@ -25,7 +25,7 @@ description: 'Airfood recipe'
 
   <h2>Where to Find Airfood Recipes</h2>
 
-  <p>The internet is brimming with fantastic airfood recipe inspiration. Websites like Air Fryer Wonder ([https://airfryerwonder.com/airfood-recipe/](https://airfryerwonder.com/airfood-recipe/)) offer a vast collection of air fryer recipes, categorized by ingredients, dietary restrictions, and even cooking time. With so many options to choose from, you're sure to find something to satisfy your taste buds.</p>
+  <p>The internet is brimming with fantastic airfood recipe inspiration. Websites like <a href=https://airfryerwonder.com/airfood-recipe>Air Fryer Wonder </a>offer a vast collection of air fryer recipes, categorized by ingredients, dietary restrictions, and even cooking time. With so many options to choose from, you're sure to find something to satisfy your taste buds.</p>
 
   <p>So, ditch the deep fryer and embrace the magic of airfood! With a little creativity and the help of these amazing recipes, you can whip up delicious and healthy meals that the whole family will love.</p>
 
