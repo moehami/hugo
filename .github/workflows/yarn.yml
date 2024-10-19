@@ -1,0 +1,10 @@
+workflow "Build on push" {
+  on = "push"
+  resolves = [
+    "comchangs/action-yarn@master"
+  ]
+}
+action "comchangs/action-yarn@master" {
+  uses = "comchangs/action-yarn@master"
+  args = "yarn install; yarn ng build"
+}
