@@ -3,7 +3,7 @@
   "name": "my-hugo-project"
   "scripts": {
     "dev": "",
-    "build": "hugo --minify"
+    "build": ""
   }
     "dependencies": {
     "@sanity/block-content-to-markdown": "0.0.5",
