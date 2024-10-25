@@ -2,7 +2,6 @@
 {
   "name": "my-hugo-project",
   "scripts": {
-    "dev": "contentful-hugo --preview && hugo server",
-    "build": "contentful-hugo && hugo --minify"
+ 
   }
 }
