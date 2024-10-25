@@ -2,8 +2,8 @@
 {
   "name": "my-hugo-project"
   "scripts": {
-    "dev": "contentful-hugo --preview && hugo server",
-    "build": "contentful-hugo && hugo --minify"
+    "dev": "",
+    "build": "hugo --minify"
   }
     "dependencies": {
     "@sanity/block-content-to-markdown": "0.0.5",
