@@ -1,0 +1,5 @@
+            - name: GitHub Action for Sanity.io
+  # You may pin to the exact commit or the version.
+  # uses: sanity-io/github-action-sanity@072833fa1dbf29c5d0b8e4587b88541fb279fa67
+  uses: sanity-io/github-action-sanity@v0.1-alpha
+          
