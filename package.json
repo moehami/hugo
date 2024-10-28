@@ -1,7 +1,7 @@
 {
   "name": "creative-inc",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "license": "MIT",
   "scripts": {
     "build:hugo": "NODE_ENV=production hugo --config config.prod.toml",
