@@ -12,6 +12,11 @@
     "test": {
       "name": "test",
       "command": "npm run test"
+    },
+    "n": {
+      "name": "n",
+      "command": "npm run dev",
+      "runAtStart": true
     }
   }
 }
