@@ -2,62 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aflover.vercel.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-06T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/airfood-recipe/</loc>
+    <loc>http://localhost:1313/posts/airfood-recipe/</loc>
     <lastmod>2024-09-06T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-06T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/hard-boiled-eggs-n-a-air-fryer/</loc>
+    <loc>http://localhost:1313/posts/hard-boiled-eggs-n-a-air-fryer/</loc>
     <lastmod>2024-08-26T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/air-fryer-calculator/</loc>
+    <loc>http://localhost:1313/posts/air-fryer-calculator/</loc>
     <lastmod>2024-08-25T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/chicken-wings/</loc>
+    <loc>http://localhost:1313/posts/chicken-wings/</loc>
     <lastmod>2024-08-21T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/posts/air-fryer-texas-toast/</loc>
+    <loc>http://localhost:1313/posts/air-fryer-texas-toast/</loc>
     <lastmod>2024-08-21T17:18:05+01:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/img/</loc>
+    <loc>http://localhost:1313/img/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/oop/</loc>
+    <loc>http://localhost:1313/oop/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/con/</loc>
+    <loc>http://localhost:1313/con/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/contactme/</loc>
+    <loc>http://localhost:1313/contactme/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aflover.vercel.app/tags/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
