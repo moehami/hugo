@@ -8,13 +8,13 @@
 
   <!-- if development -->
   <script type="module">
-    import RefreshRuntime from 'http://localhost:4001/@react-refresh'
+    import RefreshRuntime from 'https://aflover.vercel.app/@react-refresh'
     RefreshRuntime.injectIntoGlobalHook(window)
     window.$RefreshReg$ = () => {}
     window.$RefreshSig$ = () => (type) => type
     window.__vite_plugin_react_preamble_installed__ = true
   </script>
-  <script type="module" src="http://localhost:4001/@vite/client"></script>
+  <script type="module" src="https://aflover.vercel.app/@vite/client"></script>
   <script>
   function handleLoadError() {
     // Assets have failed to load
@@ -23,7 +23,7 @@
   </script>
   <script
     type="module"
-    src="http://localhost:4001/src/main.tsx"
+    src="https://aflover.vercel.app/src/main.tsx"
     onerror="handleLoadError()"
   ></script>
   <body class="tina-tailwind">
